@@ -176,9 +176,9 @@
         console.log(data_kopi)
 
         function updatePilihan() {
-    select_kopi.innerHTML = `<option value="" selected disabled>All</option>`
-    Object.keys(data_kopi).forEach(key => {
-        select_kopi.innerHTML += `<option value="${key}">${key}</option>`
+                select_kopi.innerHTML = `<option value="" selected >All</option>`
+                Object.keys(data_kopi).forEach(key => {
+                select_kopi.innerHTML += `<option value="${key}">${key}</option>`
     })
 }
 updatePilihan()

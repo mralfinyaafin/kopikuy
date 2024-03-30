@@ -20,6 +20,13 @@
         "size": "150 Gram",
         "harga": "150.000",
         "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+      },
+      {
+        "foto": "images/produk/flores.jpg",
+        "nama": "Flores Arabica",
+        "size": "120 Gram",
+        "harga": "100.000",
+        "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
       }
     ],
     "robusta": [
@@ -43,6 +50,13 @@
         "size": "150 Gram",
         "harga": "120.000",
         "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+      },
+      {
+        "foto": "images/produk/lampung.jpg",
+        "nama": "Lampung Robusta",
+        "size": "80 Gram",
+        "harga": "125.000",
+        "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
       }
     ],
     "meal": [
@@ -65,6 +79,13 @@
         "nama": "Mie Bangladesh",
         "size": "Bowl",
         "harga": "25.000",
+        "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+      },
+      {
+        "foto": "images/produk/brownis.jpg",
+        "nama": "Brownies",
+        "size": "4 pcs",
+        "harga": "20.000",
         "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
       }
     ]
